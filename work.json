@@ -1,5 +1,5 @@
 {
-    "0": {
+    "5": {
         "title": "Full Stack Developer",
         "employment_type": "Part-time",
         "company_name": "Editmode",
@@ -7,5 +7,50 @@
         "currently_working_here": false,
         "start_date": "1592323200",
         "end_date": "1606665600"
+    },
+    "4": {
+        "title": "Full Stack Developer",
+        "employment_type": "Full-time",
+        "company_name": "Lyon Software Technologies",
+        "location": "Philippines",
+        "currently_working_here": false,
+        "start_date": "1584288000",
+        "end_date": "1603382400"
+    },
+    "3": {
+        "title": "Full Stack Developer",
+        "employment_type": "Contract",
+        "company_name": "OpsManager",
+        "location": "Philippines",
+        "currently_working_here": false,
+        "start_date": "1561305600",
+        "end_date": "1584028800"
+    },
+    "2": {
+        "title": "Lead Designer",
+        "employment_type": "Full-time",
+        "company_name": "Talkpush",
+        "location": "Philippines",
+        "currently_working_here": false,
+        "start_date": "1490544000",
+        "end_date": "1553788800"
+    },
+    "1": {
+        "title": "Website Developer",
+        "employment_type": "Contract",
+        "company_name": "ANMarketing",
+        "location": "Remote",
+        "currently_working_here": false,
+        "start_date": "1480521600",
+        "end_date": "1488297600"
+    },
+    "0": {
+        "title": "Website Developer",
+        "employment_type": "Contract",
+        "company_name": "Rapid Solutions",
+        "location": "Remote",
+        "currently_working_here": false,
+        "start_date": "1456761600",
+        "end_date": "1469980800"
     }
 }
