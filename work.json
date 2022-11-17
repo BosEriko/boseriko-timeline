@@ -1,4 +1,31 @@
 {
+    "8": {
+        "title": "Full Stack Developer",
+        "employment_type": "Part-time",
+        "company_name": "Kuru Studio",
+        "location": "Remote",
+        "currently_working_here": true,
+        "start_date": "1665936000",
+        "end_date": ""
+    },
+    "7": {
+        "title": "Full Stack Developer",
+        "employment_type": "Full-time",
+        "company_name": "Resonate and Engage Marketing Inc.",
+        "location": "Remote",
+        "currently_working_here": true,
+        "start_date": "1665936000",
+        "end_date": ""
+    },
+    "6": {
+        "title": "Full Stack Developer",
+        "employment_type": "Full-time",
+        "company_name": "Kuru Studio",
+        "location": "Remote",
+        "currently_working_here": false,
+        "start_date": "1603728000",
+        "end_date": "1665676800"
+    },
     "5": {
         "title": "Full Stack Developer",
         "employment_type": "Part-time",
@@ -10,7 +37,7 @@
     },
     "4": {
         "title": "Full Stack Developer",
-        "employment_type": "Full-time",
+        "employment_type": "Contract",
         "company_name": "Lyon Software Technologies",
         "location": "Philippines",
         "currently_working_here": false,
